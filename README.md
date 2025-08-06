@@ -5,12 +5,12 @@ In the modern world, energy management is a critical issue for both households a
 Provides actionable insights into energy usage trends and deliver a predictive model that can help optimize energy consumption for households or serve as a baseline for further research into energy management systems.
 
 Technical Tags:
-  Data Preprocessing
-  Regression Modeling
-  Feature Engineering
-  Hyperparameter Tuning
-  Visualization
-  Python
-  Scikit-learn
-  Pandas
+  Data Preprocessing,
+  Regression Modeling,
+  Feature Engineering,
+  Hyperparameter Tuning,
+  Visualization,
+  Python,
+  Scikit-learn,
+  Pandas,
   Matplotlib/Seaborn
